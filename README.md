@@ -1,5 +1,5 @@
 # Configurations-YAML
-A YAML extension to Apache Commons Configuration
+A YAML extension to Apache Commons Configuration 1.x
 
 The Commons Configuration software library (https://commons.apache.org/proper/commons-configuration/index.html) provides a generic configuration interface which enables a Java application to read configuration data from a variety of sources. Commons Configuration provides typed access to single, and multi-valued configuration parameters. By default it allows for configuration parameters loaded from sources, like Properties files, XML documents, and Windows INI files. 
 
