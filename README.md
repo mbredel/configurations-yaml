@@ -25,7 +25,7 @@ The YAML extension allows loading configuration from YAML files like
 
 To load, verify, and write YAML files configuration-yaml leverages the SnakeYAML (http://www.snakeyaml.org/) YAML parser and emitter.
 
-# License
+## License
 This software is licensed under the Apache 2 license, quoted below.
 
 Copyright (C) 2016 Michael Bredel. (http://www.bredel.at).
