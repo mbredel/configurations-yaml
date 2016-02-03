@@ -5,6 +5,7 @@ The Commons Configuration software library (https://commons.apache.org/proper/co
 
 The YAML extension allows loading configuration from YAML files like
 
+```YAML
   ---
   key1: value1
 
@@ -19,6 +20,7 @@ The YAML extension allows loading configuration from YAML files like
   text: >
     This is text that
     spans multiple lines
+```
 
 
 To load, verify, and write YAML files configuration-yaml leverages the SnakeYAML (http://www.snakeyaml.org/) YAML parser and emitter.
