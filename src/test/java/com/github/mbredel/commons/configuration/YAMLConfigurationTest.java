@@ -23,7 +23,7 @@
  * permission.
  */
 
-package org.github.mbredel.commons.configuration;
+package com.github.mbredel.commons.configuration;
 
 import org.apache.commons.configuration.ConfigurationException;
 import org.junit.Before;

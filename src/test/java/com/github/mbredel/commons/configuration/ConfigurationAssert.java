@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.github.mbredel.commons.configuration;
+package com.github.mbredel.commons.configuration;
 
 import org.apache.commons.configuration.Configuration;
 import org.apache.commons.configuration.ConfigurationRuntimeException;
